@@ -19,3 +19,4 @@ for fariscity in farisvisit {
 for bothcity1 in bothcity{
     print("they both visit \(bothcity1)")
 }
+//
